@@ -1,2 +1,2 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/uao8w0ppmf96y111/branch/master?svg=true)](https://ci.appveyor.com/project/l0197d/aqa-2-3-2/branch/master)
-
+# AQA2.3 patterns
+[![Build status](https://ci.appveyor.com/api/projects/status/tvtrax27kix3d8kl?svg=true)](https://ci.appveyor.com/project/nanaishere/aqa-patterns)
